@@ -4,8 +4,13 @@ A full-stack **Netflix-inspired streaming platform clone** built with the MERN s
 
 **Live Demo**: [https://netflix-clone-xkdh.onrender.com](https://netflix-clone-xkdh.onrender.com)
 
-![Netflix Clone Screenshot](https://via.placeholder.com/1280x720/141414/ffffff?text=Netflix+Clone+Hero+Banner)  
-*(Replace with actual screenshot from your deployed app – e.g., hero section with featured movie)*
+### 📸 Screenshots
+
+**1. Hero Banner / Featured Movie Section**  
+![Netflix Clone Screenshot 1](./screenshot/1.png)
+
+**2. Movie Listing / Browse Section**  
+![Netflix Clone Screenshot 2](./screenshot/2.png)
 
 ## ✨ Features
 
@@ -126,8 +131,6 @@ Frontend (from client/ folder)
 ```bash
 npm start
 ```
-📸 Screenshots
-<img width="1855" height="973" alt="image" src="https://github.com/user-attachments/assets/60dd355b-62d2-45d1-a5e4-ddac53412dba" />
 
 #NETFLIX_CLONE
 LIVE DEMO ON: https://netflix-clone-xkdh.onrender.com
