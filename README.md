@@ -121,7 +121,7 @@ backend/.env
 PORT=5000
 MONGO_URI=mongodb+srv://<user>:<pass>@cluster0.mongodb.net/netflix-clone?retryWrites=true&w=majority
 JWT_SECRET=your_very_long_random_secret
-TMDB_API_KEY=your_tmdb_api_key_here`bash
+TMDB_API_KEY=your_tmdb_api_key_here
 ```
 ### 4. Run the app
 ```bash
